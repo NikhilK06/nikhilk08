@@ -1,9 +1,9 @@
 ## Hi, I'm Nikhil K  
 
 👋 Hey there! I'm Nikhil
-🚀 DevOps Engineer | Cloud & Automation Enthusiast
+🚀 DevOps Engineer | Co-Founder DevOps-Bot | SRA @ICEDATA
 
-With 3+ years of experience, I specialize in optimizing IT infrastructure, automating workflows, and enhancing system reliability. My expertise includes CI/CD pipelines, cloud technologies, and monitoring solutions to ensure seamless deployments and efficient operations.
+With 4+ years of experience, I specialize in optimizing IT infrastructure, automating workflows, and enhancing system reliability. My expertise includes CI/CD pipelines, cloud technologies, and monitoring solutions to ensure seamless deployments and efficient operations.
 
 🔧 Tech Stack:
 
